@@ -1,9 +1,0 @@
-.svn
-# .project
-Thumbs.db
-.DS_Store*
-# .settings
-# .buildpath
-*.pyc
-.idea/
-/log.txt
