@@ -1246,5 +1246,5 @@ h3#reply-title {
 	width: auto;
 }
 .eo-venue-map.googlemap{
-    display:none;
+    display:block;
 }
