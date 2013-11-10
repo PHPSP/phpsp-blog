@@ -95,7 +95,7 @@ get_header(); ?>
 					    </div>
 					</div>
 				<?php endwhile; ?>
-				<a class="todos_artigos" href="<?php echo get_bloginfo('url'); ?>/category/artigos/">Ver todos os artigos...</a>
+				<a class="todos_artigos" href="<?php echo get_bloginfo('url'); ?>/index.php/category/artigos/">Ver todos os artigos...</a>
 			</div>
 			<div class="bl_avisos span4">
 			    <h2 class="grey-block"><strong>Avisos</strong> da comunidade</h2>
