@@ -1,4 +1,0 @@
-@synchronized
-@protected
-@private
-@public

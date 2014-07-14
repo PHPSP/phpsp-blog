@@ -1,4 +1,0 @@
-parseInt
-parseFloat
-isNaN
-isFinite

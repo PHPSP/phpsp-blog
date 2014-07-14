@@ -1,9 +1,0 @@
-type
-  THelloWorld = class
-    procedure Put;
-  end;
- 
-procedure THelloWorld.Put;
-begin
-  Writeln('Hello, World!');
-end;

@@ -1,2 +1,0 @@
-__defineGetter__
-__defineSetter__

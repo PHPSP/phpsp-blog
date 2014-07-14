@@ -1,6 +1,0 @@
-Integer
-Float
-Duration
-Character
-String
-Boolean
