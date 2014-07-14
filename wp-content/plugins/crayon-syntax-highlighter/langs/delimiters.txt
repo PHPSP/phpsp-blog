@@ -1,4 +1,0 @@
-php <\?(?:php)?.*?\?\>
-js <script\b[^\>]*>.*?</script>
-css <style\b[^\>]*>.*?</style>
-ruby (<%.*?%>)|(^%.*?[\r\n])

@@ -1,8 +1,0 @@
-autorelease
-release
-typedef
-retain
-sizeof
-alloc
-super
-self

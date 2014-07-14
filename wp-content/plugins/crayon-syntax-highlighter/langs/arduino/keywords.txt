@@ -1,7 +1,0 @@
-INPUT
-INPUT_PULLUP
-OUTPUT
-LOW
-HIGH
-false
-true
