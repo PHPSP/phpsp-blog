@@ -1,4 +1,4 @@
-# PHPSP
+# Qualquer alteração no tema do blog deve ser feita em um novo repositório https://github.com/PHPSP/phpsp-blog-theme
 
 ## Blog
 
